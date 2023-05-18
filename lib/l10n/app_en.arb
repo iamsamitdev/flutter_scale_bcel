@@ -1,0 +1,9 @@
+{
+    "hello": "Hello, How are you?",
+    "menu_account": "Account",
+    "menu_changepass": "Change Password",
+    "menu_changelang": "Change Language",
+    "menu_setting": "Setting",
+    "menu_contact": "Contact Us",
+    "menu_logout": "Logout"
+}

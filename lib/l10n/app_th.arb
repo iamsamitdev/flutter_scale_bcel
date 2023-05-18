@@ -1,0 +1,9 @@
+{
+    "hello": "สวัสดี, สบายดีมั้ย?",
+    "menu_account": "บัญชี",
+    "menu_changepass": "เปลี่ยนรหัสผ่าน",
+    "menu_changelang": "เปลี่ยนภาษา",
+    "menu_setting": "ตั้งค่า",
+    "menu_contact": "ติดต่อเรา",
+    "menu_logout": "ออกจากระบบ"
+}

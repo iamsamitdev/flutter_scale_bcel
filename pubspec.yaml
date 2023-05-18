@@ -1,0 +1,57 @@
+name: flutter_scale
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # localization
+  flutter_localizations:
+    sdk: flutter
+
+  # intl
+  # intl: ^0.17.0
+
+  cupertino_icons: ^1.0.2
+  
+  # for creating intro screen
+  onboarding_intro_screen: ^0.0.8
+
+  # http request
+  http: ^0.13.6
+
+  # Shared Preferences
+  shared_preferences: ^2.1.1
+
+  # Network Connectivity
+  connectivity_plus: ^4.0.0
+
+  # provider
+  provider: ^6.0.5
+
+  # Day and Night Switch
+  day_night_switch: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: IBMPlexSansThai
+      fonts:
+        - asset: fonts/IBMPlexSansThai-Regular.ttf
+        - asset: fonts/IBMPlexSansThai-Bold.ttf
+        - asset: fonts/IBMPlexSansThai-Thin.ttf
